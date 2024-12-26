@@ -15,7 +15,7 @@ A React component library to visualize predictions and Grad-CAM overlays for ima
 ## Installation
 ```bash
 npm install react-predictor-cam
-
+```
 
 ## Usage
 ```tsx
@@ -34,7 +34,7 @@ const App = () => {
 };
 
 export default App;
-
+```
 
 ## Props
 | Prop          | Type          | Description                            | Required |
